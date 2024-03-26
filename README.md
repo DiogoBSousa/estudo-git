@@ -1,3 +1,3 @@
 # Estudo Git
 
-- Vamo la né pae
+- Esse repositorio serve para organisar os estudos sobre git.
